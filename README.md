@@ -10,4 +10,5 @@ Some Basic Concepts of Natural Language Processing [Open](https://github.com/Har
 "From Reviews to Ratings: Developing an Effective Model for Predicting Yelp Star Ratings Through Text Analysis"[Open](https://github.com/Harsh-Baghel001/NLP---Natural-Language-Processing-/blob/main/Yelp%20Reviews.ipynb)
 
 "Utilizing Text Analysis Techniques for Accurate Prediction of News Categories from Article Content"[Open](https://github.com/Harsh-Baghel001/NLP---Natural-Language-Processing-/blob/main/News%20Category%20Prediction.ipynb)
+
 "News Category Prediction Model Deployment link"[Open](https://huggingface.co/spaces/HarshU1/News-Category-Prediction)
